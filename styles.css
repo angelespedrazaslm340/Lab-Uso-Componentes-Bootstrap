@@ -1,0 +1,35 @@
+body {
+    background-color: #fdf2f8; 
+}
+
+.navbar {
+    background-color: #6b21a8 !important;
+}
+
+.navbar .nav-link, .navbar-brand {
+    color: white !important;
+}
+
+.navbar .nav-link.active {
+    font-weight: bold;
+    color: #f472b6 !important;
+}
+
+.row.text-center .col-2, .row.text-center .col-8 {
+    background-color: white;
+    border: 2px solid #db2777 !important;
+}
+
+#liveAlertBtn, .btn-primary {
+    background-color: #db2777; 
+    border: none;
+}
+
+#liveAlertBtn:hover, .btn-primary:hover {
+    background-color: #be185d;
+}
+
+form {
+    background-color: white;
+    border-radius: 10px;
+}
